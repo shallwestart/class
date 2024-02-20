@@ -14,7 +14,7 @@ function setup() {
 
     fill(255)
     textFont('Helvetica', 50)
-    tex t("CHAVISA SRISUWAN",150,150)
+    text("CHAVISA SRISUWAN",150,150)
     textFont('Helvetica', 30)
     text("profile",160,190)
     text("education",160,640)
@@ -54,7 +54,7 @@ function setup() {
 
   function drawJelly(x,y){//set การวางตำเเหน่งให้วางตาบนหน้า
     drawbody(x,y);
-    draweye(x,y);.
+    draweye(x,y);
   }
   
   function drawbody(x, y, radius1, radius2, npoints){//กำหนดรูปร่างของobject
