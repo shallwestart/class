@@ -14,7 +14,7 @@ function setup() {
 
     fill(255)
     textFont('Helvetica', 50)
-    text("CHAVISA SRISUWAN",150,150)
+    tex t("CHAVISA SRISUWAN",150,150)
     textFont('Helvetica', 30)
     text("profile",160,190)
     text("education",160,640)
@@ -24,7 +24,7 @@ function setup() {
     text("chavisa.chch@gmail.com" ,700,320)
     text("tel. : 09429282921" ,700,340)
     text("Hello, My name is Chavisa Srisuwan. My nickname is Toey. I'm 20 years old." ,700,500)
-    text("Now,I’m a Thai design student who is passionate about being a creative designer.",700,520)
+    text("Now, I'm a Thai design student who is passionate about being a creative designer.",700,520)
     text("I aspire to find new experiences and meet chances.",700,540)
     text("rajinibon school I Yothinburana school ( English Programme ) I Chulalongkorn University ( Faculty of Architecture )",160,680)
     text("design, movies/series I travel I red panda I dolls I games",160,770)
